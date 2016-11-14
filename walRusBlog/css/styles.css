@@ -1,0 +1,17 @@
+.light-background {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.dark-background {
+    background-color: darkgrey;
+    color: white;
+}
+
+#image-hidden {
+    display: none;
+}
+
+#top-text {
+
+}
